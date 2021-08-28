@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "960275264366",
+    "project_id": "pixlepk-assignment",
+    "storage_bucket": "pixlepk-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960275264366:android:7eed39e5298c99ce1a077f",
+        "android_client_info": {
+          "package_name": "com.pixlepk.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960275264366-sk8203l6i2las7b1sphihhb6hbjc8no0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pixlepk.assignment",
+            "certificate_hash": "e43bb9337d27cc433eb306ea4dc8bcc86df38549"
+          }
+        },
+        {
+          "client_id": "960275264366-rofgcfs7dff1jkjvh6f4ddn8tcgc5dhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMLXwpwhSIgDcydKJtliBqito91VqgGSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960275264366-rofgcfs7dff1jkjvh6f4ddn8tcgc5dhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
